@@ -3,7 +3,13 @@
 /* Format the size of all images. */
 
 /* Style the font color. */
-
+h1 {
+color: #00028c;
+  font-size: 1.5em;
+  margin-bottom: .3em;
+  text-align: center;
+  text-decoration: underline;
+}
 /* Style the background with a color or image. */
 
 /* Adjust the spacing of your page. */
