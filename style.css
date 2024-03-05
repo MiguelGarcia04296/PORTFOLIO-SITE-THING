@@ -1,15 +1,42 @@
 /* Add flexbox to the navbars. */
-
-/* Format the size of all images. */
-
-/* Style the font color. */
+body {background-image:url("https://i.pinimg.com/236x/d1/b2/17/d1b2179b01a511e09d586a8f10ab1313.jpg");}
 h1 {
-color: #00028c;
-  font-size: 1.5em;
-  margin-bottom: .3em;
+  font-family: monospace;
+  font-size: 2em;
   text-align: center;
-  text-decoration: underline;
+  color: snow;
+  background-color: black;
+     }
+h2 {
+  color: snow;
+  background-color: black;
+  font-family: monospace;
+  font-size: 1.5em;
+  text-align: center;
 }
+h3 {
+  color: snow;
+  font-family: monospace;
+  font-size: 1em;
+  text-align: right;
+}
+h4 {
+  color: snow;
+  font-family: monospace;
+  font-size: 1em;
+  text-align: right;
+}
+/* Format the size of all images. */
+nav {
+  display: flex; 
+  justify-content:space-between;
+}
+a {
+  color: snow
+  ;
+}
+/* Style the font color. */
+
 /* Style the background with a color or image. */
 
 /* Adjust the spacing of your page. */
